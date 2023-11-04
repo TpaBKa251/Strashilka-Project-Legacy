@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11ee221c669034944afa5050f18ba3c7, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  HandPos: {x: 0.55, y: -0.61999995, z: 1.19}
+  HandRot: {x: 0, y: 180, z: 0, w: 0}
+  damage: 10
+  range: 100
+  impact: 100
+  fireRate: 2
+  id: 0
+  name: Valera
+  description: As they say once a year and "Valera" shoots
+  icon: {fileID: 21300000, guid: 14e5e7ade9ce73845b621569f712038e, type: 3}
